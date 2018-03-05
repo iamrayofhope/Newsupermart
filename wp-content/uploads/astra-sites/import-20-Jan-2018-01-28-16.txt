@@ -1,0 +1,339 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: Linux
+Software 		: Apache
+MySQL version 		: 5.6.36
+PHP Version 		: 7.1.11
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 8M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 2 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 13:30:00 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 13:30:01 UTC
+
+---
+
+2. Importing "XML"  - 13:30:06 UTC
+Imported "Top Nav" (nav_menu)
+Term 10 remapped to 20
+Failed to import astra-site-page-builder Beaver Builder
+Invalid taxonomy.
+Failed to import astra-site-page-builder Elementor
+Invalid taxonomy.
+Failed to import astra-sites-type Free
+Invalid taxonomy.
+Failed to import astra-sites-type Premium
+Invalid taxonomy.
+Imported "Home" (Page)
+Post 2 remapped to 224
+Imported "favicon" (Media)
+Post 11 remapped to 225
+Imported "About" (Page)
+Post 19 remapped to 226
+Imported "Services" (Page)
+Post 21 remapped to 227
+Imported "Contact" (Page)
+Post 25 remapped to 228
+Imported "student-1" (Media)
+Post 93 remapped to 229
+Imported "astra" (Custom CSS)
+Post 129 remapped to 230
+Imported "cart" (Media)
+Post 176 remapped to 231
+Imported "editing" (Media)
+Post 177 remapped to 232
+Imported "support" (Media)
+Post 179 remapped to 233
+Imported "coding-1" (Media)
+Post 259 remapped to 259
+Imported "share" (Media)
+Post 261 remapped to 261
+Imported "teammate1" (Media)
+Post 279 remapped to 279
+Imported "teammate3" (Media)
+Post 281 remapped to 281
+Imported "teammate2" (Media)
+Post 308 remapped to 308
+Imported "home-banner" (Media)
+Post 317 remapped to 317
+Imported "client1" (Media)
+Post 339 remapped to 339
+Imported "client2" (Media)
+Post 340 remapped to 340
+Imported "client3" (Media)
+Post 341 remapped to 341
+Imported "client4" (Media)
+Post 342 remapped to 342
+Imported "client5" (Media)
+Post 343 remapped to 343
+Imported "client6" (Media)
+Post 344 remapped to 344
+Imported "marketing" (Media)
+Post 346 remapped to 346
+Imported "why-choose-us" (Media)
+Post 386 remapped to 386
+Imported "award-icon" (Media)
+Post 407 remapped to 407
+Imported "heart-icon" (Media)
+Post 409 remapped to 409
+Imported "projects-icon" (Media)
+Post 411 remapped to 411
+Imported "code-lines-icon" (Media)
+Post 427 remapped to 427
+Imported "about-us-bg" (Media)
+Post 516 remapped to 516
+Imported "Contact Form 1" (Contact Form)
+Post 526 remapped to 526
+Imported "proj3" (Media)
+Post 598 remapped to 598
+Imported "proj7" (Media)
+Post 599 remapped to 599
+Imported "proj6" (Media)
+Post 600 remapped to 600
+Imported "proj5" (Media)
+Post 601 remapped to 601
+Imported "astra-theme-child" (Custom CSS)
+Post 685 remapped to 685
+Imported "" (Navigation Menu Item)
+Post 724 remapped to 724
+Processing menu item post_type
+Menu item 25 mapped to 228
+Imported "" (Navigation Menu Item)
+Post 725 remapped to 725
+Processing menu item post_type
+Menu item 21 mapped to 227
+Imported "" (Navigation Menu Item)
+Post 726 remapped to 726
+Processing menu item post_type
+Menu item 19 mapped to 226
+Imported "" (Navigation Menu Item)
+Post 727 remapped to 727
+Processing menu item post_type
+Menu item 2 mapped to 224
+Imported "space-logo-free-img" (Media)
+Post 864 remapped to 864
+Imported "space-logo-free-img@2x" (Media)
+Post 865 remapped to 865
+Imported "spacewhite-logo-free-img" (Media)
+Post 866 remapped to 866
+Imported "space-facebook-yoast-free-img" (Media)
+Post 874 remapped to 874
+Running post-processing for post 224
+Could not find the author for "Home" (post #224)
+Post 224 was imported with author "harshadd", but could not be found
+Post 224 was marked for post-processing, but none was required.
+Running post-processing for post 225
+Could not find the author for "favicon" (post #225)
+Post 225 was imported with author "harshadd", but could not be found
+Post 225 was marked for post-processing, but none was required.
+Running post-processing for post 226
+Could not find the author for "About" (post #226)
+Post 226 was imported with author "harshadd", but could not be found
+Post 226 was marked for post-processing, but none was required.
+Running post-processing for post 227
+Could not find the author for "Services" (post #227)
+Post 227 was imported with author "harshadd", but could not be found
+Post 227 was marked for post-processing, but none was required.
+Running post-processing for post 228
+Could not find the author for "Contact" (post #228)
+Post 228 was imported with author "harshadd", but could not be found
+Post 228 was marked for post-processing, but none was required.
+Running post-processing for post 229
+Could not find the author for "student-1" (post #229)
+Post 229 was imported with author "harshadd", but could not be found
+Post 229 was marked for post-processing, but none was required.
+Running post-processing for post 230
+Could not find the author for "astra" (post #230)
+Post 230 was imported with author "harshadd", but could not be found
+Post 230 was marked for post-processing, but none was required.
+Running post-processing for post 231
+Could not find the author for "cart" (post #231)
+Post 231 was imported with author "harshadd", but could not be found
+Post 231 was marked for post-processing, but none was required.
+Running post-processing for post 232
+Could not find the author for "editing" (post #232)
+Post 232 was imported with author "harshadd", but could not be found
+Post 232 was marked for post-processing, but none was required.
+Running post-processing for post 233
+Could not find the author for "support" (post #233)
+Post 233 was imported with author "harshadd", but could not be found
+Post 233 was marked for post-processing, but none was required.
+Running post-processing for post 259
+Could not find the author for "coding-1" (post #259)
+Post 259 was imported with author "harshadd", but could not be found
+Post 259 was marked for post-processing, but none was required.
+Running post-processing for post 261
+Could not find the author for "share" (post #261)
+Post 261 was imported with author "harshadd", but could not be found
+Post 261 was marked for post-processing, but none was required.
+Running post-processing for post 279
+Could not find the author for "teammate1" (post #279)
+Post 279 was imported with author "harshadd", but could not be found
+Post 279 was marked for post-processing, but none was required.
+Running post-processing for post 281
+Could not find the author for "teammate3" (post #281)
+Post 281 was imported with author "harshadd", but could not be found
+Post 281 was marked for post-processing, but none was required.
+Running post-processing for post 308
+Could not find the author for "teammate2" (post #308)
+Post 308 was imported with author "harshadd", but could not be found
+Post 308 was marked for post-processing, but none was required.
+Running post-processing for post 317
+Could not find the author for "home-banner" (post #317)
+Post 317 was imported with author "harshadd", but could not be found
+Post 317 was marked for post-processing, but none was required.
+Running post-processing for post 339
+Could not find the author for "client1" (post #339)
+Post 339 was imported with author "harshadd", but could not be found
+Post 339 was marked for post-processing, but none was required.
+Running post-processing for post 340
+Could not find the author for "client2" (post #340)
+Post 340 was imported with author "harshadd", but could not be found
+Post 340 was marked for post-processing, but none was required.
+Running post-processing for post 341
+Could not find the author for "client3" (post #341)
+Post 341 was imported with author "harshadd", but could not be found
+Post 341 was marked for post-processing, but none was required.
+Running post-processing for post 342
+Could not find the author for "client4" (post #342)
+Post 342 was imported with author "harshadd", but could not be found
+Post 342 was marked for post-processing, but none was required.
+Running post-processing for post 343
+Could not find the author for "client5" (post #343)
+Post 343 was imported with author "harshadd", but could not be found
+Post 343 was marked for post-processing, but none was required.
+Running post-processing for post 344
+Could not find the author for "client6" (post #344)
+Post 344 was imported with author "harshadd", but could not be found
+Post 344 was marked for post-processing, but none was required.
+Running post-processing for post 346
+Could not find the author for "marketing" (post #346)
+Post 346 was imported with author "harshadd", but could not be found
+Post 346 was marked for post-processing, but none was required.
+Running post-processing for post 386
+Could not find the author for "why-choose-us" (post #386)
+Post 386 was imported with author "harshadd", but could not be found
+Post 386 was marked for post-processing, but none was required.
+Running post-processing for post 407
+Could not find the author for "award-icon" (post #407)
+Post 407 was imported with author "harshadd", but could not be found
+Post 407 was marked for post-processing, but none was required.
+Running post-processing for post 409
+Could not find the author for "heart-icon" (post #409)
+Post 409 was imported with author "harshadd", but could not be found
+Post 409 was marked for post-processing, but none was required.
+Running post-processing for post 411
+Could not find the author for "projects-icon" (post #411)
+Post 411 was imported with author "harshadd", but could not be found
+Post 411 was marked for post-processing, but none was required.
+Running post-processing for post 427
+Could not find the author for "code-lines-icon" (post #427)
+Post 427 was imported with author "harshadd", but could not be found
+Post 427 was marked for post-processing, but none was required.
+Running post-processing for post 516
+Could not find the author for "about-us-bg" (post #516)
+Post 516 was imported with author "harshadd", but could not be found
+Post 516 was marked for post-processing, but none was required.
+Running post-processing for post 526
+Could not find the author for "Contact Form 1" (post #526)
+Post 526 was imported with author "harshadd", but could not be found
+Post 526 was marked for post-processing, but none was required.
+Running post-processing for post 598
+Could not find the author for "proj3" (post #598)
+Post 598 was imported with author "harshadd", but could not be found
+Post 598 was marked for post-processing, but none was required.
+Running post-processing for post 599
+Could not find the author for "proj7" (post #599)
+Post 599 was imported with author "harshadd", but could not be found
+Post 599 was marked for post-processing, but none was required.
+Running post-processing for post 600
+Could not find the author for "proj6" (post #600)
+Post 600 was imported with author "harshadd", but could not be found
+Post 600 was marked for post-processing, but none was required.
+Running post-processing for post 601
+Could not find the author for "proj5" (post #601)
+Post 601 was imported with author "harshadd", but could not be found
+Post 601 was marked for post-processing, but none was required.
+Running post-processing for post 685
+Could not find the author for "astra-theme-child" (post #685)
+Post 685 was imported with author "harshadd", but could not be found
+Post 685 was marked for post-processing, but none was required.
+Running post-processing for post 724
+Could not find the author for "" (post #724)
+Post 724 was imported with author "harshadd", but could not be found
+Post 724 was marked for post-processing, but none was required.
+Running post-processing for post 725
+Could not find the author for "" (post #725)
+Post 725 was imported with author "harshadd", but could not be found
+Post 725 was marked for post-processing, but none was required.
+Running post-processing for post 726
+Could not find the author for "" (post #726)
+Post 726 was imported with author "harshadd", but could not be found
+Post 726 was marked for post-processing, but none was required.
+Running post-processing for post 727
+Could not find the author for "" (post #727)
+Post 727 was imported with author "harshadd", but could not be found
+Post 727 was marked for post-processing, but none was required.
+Running post-processing for post 864
+Could not find the author for "space-logo-free-img" (post #864)
+Post 864 was imported with author "ramak", but could not be found
+Post 864 was marked for post-processing, but none was required.
+Running post-processing for post 865
+Could not find the author for "space-logo-free-img@2x" (post #865)
+Post 865 was imported with author "ramak", but could not be found
+Post 865 was marked for post-processing, but none was required.
+Running post-processing for post 866
+Could not find the author for "spacewhite-logo-free-img" (post #866)
+Post 866 was imported with author "ramak", but could not be found
+Post 866 was marked for post-processing, but none was required.
+Running post-processing for post 874
+Could not find the author for "space-facebook-yoast-free-img" (post #874)
+Post 874 was imported with author "ramak", but could not be found
+Post 874 was marked for post-processing, but none was required.
+
+---
+
+3. Imported "Site Options"  - 13:30:44 UTC
+
+---
+
+4. Importing "Widgets"  - 13:30:55 UTC
+Sidebar: sidebar-1
+Widget: "Search" - Imported
+Widget: "Recent Posts" - Imported
+Widget: "Recent Comments" - Imported
+Widget: "Archives" - Imported
+Widget: "Categories" - Imported
+Widget: "Meta" - Imported
+Sidebar: advanced-footer-widget-1
+Widget: "SiteOrigin Image" - Imported
+Widget: "Text" - Imported
+Widget: "SiteOrigin Social Media Buttons" - Imported
+Sidebar: advanced-footer-widget-2
+Widget: "Text" - Imported
+Widget: "SiteOrigin Features" - Imported
+Sidebar: advanced-footer-widget-3
+Widget: "Text" - Imported
+Widget: "SiteOrigin Features" - Imported
+Sidebar: advanced-footer-widget-4
+Widget: "Text" - Imported
+Widget: "SiteOrigin Features" - Imported
+
+---
+
+Import Complete!  - 13:31:00 UTC

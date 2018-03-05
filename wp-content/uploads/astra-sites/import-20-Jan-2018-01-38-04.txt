@@ -1,0 +1,119 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: Linux
+Software 		: Apache
+MySQL version 		: 5.6.36
+PHP Version 		: 7.1.11
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 8M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 2 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 19:53:11 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 19:53:12 UTC
+
+---
+
+2. Importing "XML"  - 19:53:16 UTC
+Failed to import astra-site-page-builder Beaver Builder
+Invalid taxonomy.
+Failed to import astra-site-page-builder Elementor
+Invalid taxonomy.
+Failed to import astra-sites-type Free
+Invalid taxonomy.
+Failed to import astra-sites-type Premium
+Invalid taxonomy.
+Page "Home" already exists.
+Media "favicon" already exists.
+Page "About" already exists.
+Page "Services" already exists.
+Page "Contact" already exists.
+Media "student-1" already exists.
+Custom CSS "astra" already exists.
+Media "cart" already exists.
+Media "editing" already exists.
+Media "support" already exists.
+Media "coding-1" already exists.
+Media "share" already exists.
+Media "teammate1" already exists.
+Media "teammate3" already exists.
+Media "teammate2" already exists.
+Media "home-banner" already exists.
+Media "client1" already exists.
+Media "client2" already exists.
+Media "client3" already exists.
+Media "client4" already exists.
+Media "client5" already exists.
+Media "client6" already exists.
+Media "marketing" already exists.
+Media "why-choose-us" already exists.
+Media "award-icon" already exists.
+Media "heart-icon" already exists.
+Media "projects-icon" already exists.
+Media "code-lines-icon" already exists.
+Media "about-us-bg" already exists.
+Imported "Contact Form 1" (Contact Form)
+Post 526 remapped to 900
+Media "proj3" already exists.
+Media "proj7" already exists.
+Media "proj6" already exists.
+Media "proj5" already exists.
+Custom CSS "astra-theme-child" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Media "space-logo-free-img" already exists.
+Media "space-logo-free-img@2x" already exists.
+Media "spacewhite-logo-free-img" already exists.
+Media "space-facebook-yoast-free-img" already exists.
+Running post-processing for post 900
+Could not find the author for "Contact Form 1" (post #900)
+Post 900 was imported with author "harshadd", but could not be found
+Post 900 was marked for post-processing, but none was required.
+
+---
+
+3. Imported "Site Options"  - 19:53:23 UTC
+
+---
+
+4. Importing "Widgets"  - 19:53:26 UTC
+Sidebar: sidebar-1
+Widget: "Search" - Widget already exists
+Widget: "Recent Posts" - Widget already exists
+Widget: "Recent Comments" - Widget already exists
+Widget: "Archives" - Widget already exists
+Widget: "Categories" - Widget already exists
+Widget: "Meta" - Widget already exists
+Sidebar: advanced-footer-widget-1
+Widget: "SiteOrigin Image" - Imported
+Widget: "Text" - Imported
+Widget: "SiteOrigin Social Media Buttons" - Widget already exists
+Sidebar: advanced-footer-widget-2
+Widget: "Text" - Widget already exists
+Widget: "SiteOrigin Features" - Widget already exists
+Sidebar: advanced-footer-widget-3
+Widget: "Text" - Widget already exists
+Widget: "SiteOrigin Features" - Widget already exists
+Sidebar: advanced-footer-widget-4
+Widget: "Text" - Widget already exists
+Widget: "SiteOrigin Features" - Imported
+
+---
+
+Import Complete!  - 19:53:29 UTC

@@ -1,0 +1,24 @@
+2018-01-24T19:48:04+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /home/newsupermart/public_html/wp-content/plugins/woo-shop-slider-lite/admin/includes/class-shindiri-woo-slider-admin-settings-metabox.php:258
+Stack trace:
+#0 /home/newsupermart/public_html/wp-includes/class-wp-hook.php(288): Shindiri_Woo_Slider_Main_Metabox->save(957)
+#1 /home/newsupermart/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/newsupermart/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/newsupermart/public_html/wp-includes/post.php(3581): do_action('save_post', 957, Object(WP_Post), true)
+#4 /home/newsupermart/public_html/wp-includes/post.php(3654): wp_insert_post(Array, false)
+#5 /home/newsupermart/public_html/wp-admin/includes/post.php(377): wp_update_post(Array)
+#6 /home/newsupermart/public_html/wp-admin/post.php(194): edit_post()
+#7 {main}
+  thrown
+
+2018-01-24T19:50:34+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /home/newsupermart/public_html/wp-content/plugins/woo-shop-slider-lite/admin/includes/class-shindiri-woo-slider-admin-settings-metabox.php:258
+Stack trace:
+#0 /home/newsupermart/public_html/wp-includes/class-wp-hook.php(288): Shindiri_Woo_Slider_Main_Metabox->save(957)
+#1 /home/newsupermart/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/newsupermart/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/newsupermart/public_html/wp-includes/post.php(3581): do_action('save_post', 957, Object(WP_Post), true)
+#4 /home/newsupermart/public_html/wp-includes/post.php(3654): wp_insert_post(Array, false)
+#5 /home/newsupermart/public_html/wp-admin/includes/post.php(377): wp_update_post(Array)
+#6 /home/newsupermart/public_html/wp-admin/post.php(194): edit_post()
+#7 {main}
+  thrown
+
